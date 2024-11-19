@@ -1,6 +1,6 @@
 # Phân công nhiệm vụ dự án: Hệ thống quản lý quán cà phê
 
-## **Thành viên 1**
+## **Thành viên 1 (Phạm Công Anh)**
 ### **Nhiệm vụ**
 - Quản lý danh sách bàn (thêm, sửa, xóa bàn).
 - Quản lý thực đơn đồ uống của quán (thêm, sửa, xóa đồ uống).
@@ -24,7 +24,7 @@
 
 ---
 
-## **Thành viên 2**
+## **Thành viên 2 (Nguyễn Văn Đạt)**
 ### **Nhiệm vụ**
 - Quản lý thông tin nhân viên (thêm, sửa, xóa).
 - Ghi nhận ca trực của nhân viên.
@@ -48,7 +48,7 @@
 
 ---
 
-## **Thành viên 3**
+## **Thành viên 3 (Hoàng Tuấn Anh)**
 ### **Nhiệm vụ**
 - Xây dựng chức năng đăng nhập và đăng ký người dùng.
 - Quản lý quyền truy cập hệ thống (Admin, User).
